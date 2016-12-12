@@ -1,0 +1,52 @@
+
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Unisex Bathroom Routing</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/turf/v1.3.0/turf.min.js'></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.0.1/mapbox.css' rel='stylesheet' />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  path {pointer-events:none}
+
+  #map { position:absolute; top:51; bottom:0; width:100%; }
+  .leaflet-popup-content .marker-title{font-weight:400;color:#999;line-height:1.3em;}
+  .marker-title span{color:#00704A;font-weight:bold;}
+  #findme{display:none;background:#00704A}
+  #milecount {line-height:2em;color:#00704A}
+  #searchresults {height:0px; overflow:visible; display:none;}
+  input:focus + #searchresults, #searchresults:active {display:block;}
+  .result{background:white; width:160px; display:block; padding:10px; cursor:pointer;line-height:1.4em;}
+  .result:hover {color:#00704A;}
+  .leaflet-container {cursor:default;}
+  .leaflet-marker-icon{cursor:default;}
+  .leaflet-popup-content {padding: 10px;}
+  .leaflet-marker-icon:active ~ * {pointer-events:none;}
+  .leaflet-marker-draggable:hover{cursor:-webkit-grab;}
+  .leaflet-marker-draggable:active{cursor:-webkit-grabbing;}
+  .blocker {color:#00704A; text-align: center}
+  path[stroke-opacity='1'] {stroke-dashoffset: 10000; stroke-dasharray:10000; -webkit-transition:stroke-dashoffset 6s}
+  strong {color:#666;}
+  .distance-icon {border-radius:10px; background:#fff;color:#00704A; text-align:center;display:inline-block; border:2px solid #00704A;}
+</style>
+</head>
+<body>
+<div id='map'></div>
+<div class='pin-top fill-white pad1 keyline-bottom quiet space'>
+    <div class='blocker strong large pad0'>
+            Downloading locations...
+    </div>
+    <div id='topbar' style='display:none'>
+        <img src='logo.svg' style='width:30px;margin-right:10px'>
+        <span id='milecount' class='strong'>0</span> locations within <span id='distance'>a mile</span> from here
+        <span class='button short fr icon satellite' id='findme'>Find me</span>
+    </div>
+</div>
+<!-- LOAD SCRIPTS -->
+<script src="js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "kyle field",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33957,
+          30.61001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "memorial student center",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34154,
+          30.61197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "sam houston sanders corps of cadets center",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3375,
+          30.6121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "rudder theatre complex",
+        "category": "gendered single",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33995,
+          30.61327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "ash living learning center",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3356,
+          30.61353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "appelt residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33538,
+          30.6143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "underwood residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33568,
+          30.61412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "eppright residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33453,
+          30.61443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "wells residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3349,
+          30.61487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "rudder residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33419,
+          30.61501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "mosher residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33519,
+          30.61526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "aston residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33611,
+          30.61459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "dunn residence hall",
+        "category": "unisex",
+        "public": "o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33685,
+          30.6149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "bizzell hall",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34132,
+          30.61394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "coke",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34165,
+          30.61454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "ymca building",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34229,
+          30.6152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "interdisciplinary life sciences building",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3433,
+          30.61447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "beutel hall",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34271,
+          30.61565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "clements residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34547,
+          30.61446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "fowler residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34536,
+          30.61495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "mcfadden residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34429,
+          30.61565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "lechner residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3439,
+          30.61619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "haas residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34458,
+          30.61594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "moses residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34576,
+          30.6156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "hullaballoo hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34628,
+          30.61615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "c-1 lounge",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34539,
+          30.61706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "hobby residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3415,
+          30.61776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "neeley residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34442,
+          30.61801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "munnerlyn astronomy & space sciences engineering",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34415,
+          30.6189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "hotard hall",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34449,
+          30.61824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "engineering innovation center",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34147,
+          30.61861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "mitchell physics building",
+        "category": "gendered single",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34241,
+          30.6204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "legett residence hall",
+        "category": "unisex",
+        "public": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34235,
+          30.6162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "harrington education center office tower",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34086,
+          30.61648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "joe c. richardson petroleum engineering building",
+        "category": "gendered single",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33935,
+          30.61951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "scoates hall",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33849,
+          30.61864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "liberal arts and humanities",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33794,
+          30.61754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "melbern g. glasscock building",
+        "category": "gendered single",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33845,
+          30.61733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "animal industries building",
+        "category": "gendered single",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3372,
+          30.61724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "jack k. williams administration building",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33649,
+          30.61871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "emerging technologies building",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.33889,
+          30.6226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "rosenthal meat science & technology center",
+        "category": "family",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34839,
+          30.60968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "nuclear magnetic resonance facility",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34981,
+          30.61024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "",
+        "building_name": "bio-chemistry & bio-physice",
+        "category": "unisex",
+        "public": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34921,
+          30.61074
+        ]
+      }
+    }
+  ]
+}
